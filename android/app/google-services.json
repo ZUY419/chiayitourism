@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611912169617",
+    "project_id": "chiayi-explorer-luc-d0da1",
+    "storage_bucket": "chiayi-explorer-luc-d0da1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611912169617:android:7718fcc794f4ba58736730",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ZZ4XkAOSs0Rl84vljcbF0ILZ9tB97-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
