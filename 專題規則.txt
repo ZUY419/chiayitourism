@@ -1,0 +1,38 @@
+1. Project Overview
+    The goal of this project is to develop a mobile application titled "Explore Chiayi" (探索諸羅). Students are required to use the Flutter framework to build a high-quality Android application that serves as a comprehensive travel guide for Chiayi City(Part of County). The project integrates Google Firebase for backend services, OpenStreetMap (OSM) for geospatial visualization, and Google Gemini AI for personalized itinerary recommendations (Optional Function).
+
+2. Technical Specifications
+    Development Framework: Flutter (Targeting Android 10.0 and above).
+    Backend Engine: Google Firebase
+    Authentication: For user login and profile management.
+    Cloud Firestore: To store real-time data for spots, dining, and events.
+    Storage: For hosting images and media assets.
+    Map Integration: OpenStreetMap (via flutter_map package).
+    AI Integration: Google Gemini API (for natural language processing and smart planning). (Options)
+
+3. Core Functional Requirements
+    A. Information Modules
+    The app must provide categorized, searchable, and up-to-date information on the following:
+        (a) Latest News: Official announcements and tourism updates regarding Chiayi City.
+        (b) Attractions (POIs): Descriptions, opening hours, contact details, and user ratings for local landmarks.
+        (c) Transportation: Real-time data for Trains, City Buses, and UBike (including station locations and bike availability).
+        (d) Dining: Local culinary highlights (e.g., Turkey Rice, traditional desserts, and night market stalls).
+        (e) Accommodation: Details on licensed hotels and B&Bs with map integration.
+        (f) Events: A calendar of ongoing or upcoming cultural festivals and exhibitions.
+
+B. Map & Geospatial Features
+    Interactive Map: Utilize OpenStreetMap to display Chiayi City’s geography.
+    Custom Markers: Categorized pins (Markers) for all locations; clicking a pin should display a summary or navigate to the detail page.
+    Geolocation: Real-time user positioning and distance calculation to nearby points of interest.
+
+C. AI Smart Routing (Gemini AI) (Extra Bonus)
+    Intelligent Itinerary: Users can input preferences (e.g., "Family-friendly," "Historical," or "Foodie") and travel duration.
+    Natural Language Interaction: The app uses Gemini to generate a logical sequence of travel spots and provide contextual advice for the trip.
+
+    In this term project, we embrace the era of AI-Augmented Development. You are encouraged to leverage AI to accelerate your learning, brainstorm creative features for Chiayi's tourism, and debug complex Flutter widgets.
+
+    However, true mastery lies in your ability to direct the AI and verify its logic. We require a full disclosure of AI participation to ensure academic integrity and to highlight your skills in 'AI Collaboration.' Show us not just what the AI can do, but how you steered the AI to create a functional, localized, and user-friendly experience for Chiayi City."
+
+Next Week. 
+Please provide the specification (功能規格) (docs) and slides (簡報) (pptx) (including AI parts)for your term projects。
+About Ten teams will be invited to present their the concetps and ideas for this term project.

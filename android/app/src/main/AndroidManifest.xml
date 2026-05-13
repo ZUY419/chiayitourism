@@ -1,8 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="final_project"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+=======
+        android:label="來嘉旅遊"
+        android:name="${applicationName}"
+        android:icon="@mipmap/launcher_icon">
+>>>>>>> bd1741c28eec251168ac076459dd43243c379042
         <activity
             android:name=".MainActivity"
             android:exported="true"

@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "final_project",
     "short_name": "final_project",
+=======
+    "name": "chiayitourism",
+    "short_name": "chiayitourism",
+>>>>>>> bd1741c28eec251168ac076459dd43243c379042
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
